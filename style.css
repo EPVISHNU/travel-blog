@@ -1,0 +1,198 @@
+  @import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Protest+Revolution&display=swap');
+
+  *{
+    font-family: 'Montserrat', sans-serif;
+    /* margin: 0;
+    padding: 0;
+    background-image: url(./Images/flight.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    justify-content: center;
+    align-items: start; */
+  }
+/* .car img{
+    position: absolute;
+    top: 10%;
+    left:10% ;
+} */
+.hea{
+  color: rgb(235, 206, 167);
+}
+
+.te{
+  color: rgb(198, 138, 60);
+
+}
+
+nav{
+  position: sticky;
+}
+h1{
+  font-family: "Protest Revolution", sans-serif;
+   color:cornflowerblue;
+   font-size: 250px;
+}
+
+.lin a {
+  text-decoration:none;
+}
+
+.lin a h5{
+
+}
+
+.pi{
+  width: 100%;
+
+}
+
+/* .aq{
+  width: 500px;
+  height: 400px;
+  margin: 30px;
+  margin-right: 150px;
+  background-color: rgb(149, 254, 254);
+  justify-content: center;
+  
+} */
+
+
+.letq,.let{
+  font-family: "Protest Revolution", sans-serif;
+   color:cornflowerblue;
+   text-align: center;
+
+}
+
+.letq{
+  margin-left: -300px;
+  margin-top: 120px;
+  
+}
+
+.let{
+  margin-left: 150px;
+}
+
+.btn{
+  margin-left: 200px;
+  margin-top: 50px;
+  align-items: center;
+  justify-content: center;
+  border-color:cornflowerblue ;
+}
+
+.back{
+ background-image: url(./Images/flight.jpg);
+ background-repeat: no-repeat;
+ justify-content: center;
+ background-position:bottom;
+ margin-bottom: 10px;
+ 
+}
+
+.sar{
+  background-image: url(./Images/paper.jpg);
+  background-repeat: no-repeat;
+  background-position:bottom;
+
+}
+
+.navbar{
+  background-image: url(./Images/plane.jpg);
+  background-repeat: no-repeat;
+  background-size: 10%;
+}
+
+.b{
+  margin: 30px;
+  padding: 10px;
+  justify-content: center;
+  align-content: center;
+  position: relative;
+
+  /* background: linear-gradient(to top,rgb(95, 168, 174) 50%,whitesmoke 50%);
+  background-size: 100% 200%;
+  transition: all 0.8s; */
+}
+
+.content{
+  position: absolute;
+  bottom:0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 95%;
+  padding: 15px;
+  text-align: center;
+  margin-bottom: 10px;
+
+
+}
+
+.yel{
+  background-image: url(./Images/yellow.png);
+  background-repeat:no-repeat;
+  background-size:150px ;
+  background-position: 40%;
+  height: 120px;
+  margin-top: 130px;
+  
+}
+
+.yt{
+  color:cornflowerblue;
+
+}
+
+/* .overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color:rgb(215, 246, 246);
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  transition: .5s ease;
+} */
+
+/* .b:hover{
+  box-shadow: 2px 3px 3px   rgb(169, 233, 243);
+  background-position: left bottom;
+} */
+
+.ro{
+  margin-top:-200px;
+}
+
+.se{
+  color:cornflowerblue;
+
+}
+
+.hand{
+  background-image: url(./Images);
+  background-repeat: no-repeat;
+  width: 100%;
+}
+
+.end{
+  background-image: url(./Images/plane.jpg);
+  background-repeat: no-repeat;
+  background-position: 32%;
+  background-size: 9%;
+  height: 30px;
+
+
+}
+a{
+  text-decoration: none;
+}
+
+.b img:hover{
+  box-shadow: 2px 4px 5px 2px  rgb(83, 83, 83);
+}
